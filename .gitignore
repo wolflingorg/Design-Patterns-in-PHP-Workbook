@@ -1,2 +1,4 @@
 ### JetBrains template
 .idea/
+vendor/
+composer.lock

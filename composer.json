@@ -1,0 +1,21 @@
+{
+  "name": "wolfling/design-patterns-in-php-workbook",
+  "description": "Design patterns in php workbook",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Maksym Odanets",
+      "email": "maksym.odanets@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "phpunit/phpunit": "^6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "Tasks"
+    }
+  }
+}
